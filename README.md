@@ -8,4 +8,7 @@ Dataset oficial publicado en la plataforma de Datos Abiertos del Gobierno del Pe
 
 [Postulantes de los procesos de admisión UNHEVAL 2025](https://www.datosabiertos.gob.pe/dataset/postulantes-de-los-procesos-de-admisi%C3%B3n-la-universidad-nacional-hermilio-valdiz%C3%A1n-2025)
 
+## Integrantes
+- Miguel Angel Vega Soldevilla
+- Gabriel Quiroz Gomez
 ---
